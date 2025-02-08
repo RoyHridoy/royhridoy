@@ -5,8 +5,7 @@
 🌱 Passionate about **building scalable, high-performance applications** with modern web technologies.  
 
 🔭 **Currently working on:**  
-- 🚀 Scaling my project **Haven Hopper** (A Real Estate Platform) with **Laravel + Inertia.js + Vue.js**.  
-- ⚡ Improving **Barta**, my **real-time social media app** using WebSockets & Livewire.  
+- 🚀 Scaling my project **Haven Hopper** (A Real Estate Platform) with **Laravel + Inertia.js + Vue.js + FilamentPHP**.  
 - 💡 Contributing to **open-source projects** like Laravel Docs & FilamentPHP.  
 
 💡 **Key Skills:**  
