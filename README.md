@@ -6,7 +6,8 @@
 
 🔭 **Currently Working On:**  
 - 🚀 Learning **React**
-- 💡 Contributing to **open-source projects** like Laravel Docs & FilamentPHP.  
+- 💻 Project **WordPress Plugin**
+- 💡 Contributing to **open-source projects** like Laravel Docs, FilamentPHP, WordPress, Cachet etc.  
 
 💡 **Key Skills:**  
 - Backend: **PHP Laravel, Livewire, MySQL**  
